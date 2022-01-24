@@ -1,0 +1,25 @@
+.text-danger {
+    color: red;
+    font-size: 19px;
+}
+.pack {
+    height: 228px;
+}
+section.item-panel {
+    height: 400px;
+    width: 1152px;
+    margin-left: 99px;
+}
+.panel-default > .panel-heading {
+    height: 55px;
+}
+.form-horizontal .control-label {
+    padding-top: 3px;
+}
+.ibox
+{
+	margin-top:60px;
+}
+.form-group {
+    margin-bottom: 25px;
+}

@@ -1,0 +1,70 @@
+body
+{
+	background-color:#d5e1e4;
+	margin-bottom:-200px;
+	height:auto;
+}
+
+
+/*start breadcrumb*/
+.breadcrumb
+{width:1017px;}
+/*End breadcrumb*/
+/*start row*/
+section.row{
+	background-color:#ececf1;
+	padding-bottom:10px;
+	margin-top:40px;
+	margin-right:150px;
+	margin-left:150px;
+	padding-top:40px;
+	
+	
+}
+.row .signup .col-sm-offset-1
+{
+background-color:#1c84c6;
+height:200px;
+margin-left: 182px;	
+width:250px;
+}
+
+.row .signup
+{
+	margin-left:200px;
+}
+.row .signup .col-sm-offset-1 .m-b-md,
+.row .signup .container .m-b-md
+{
+ padding-top:20px;
+color:#FFF; 
+text-decoration:underline;
+-webkit-transition:all 0.7s ease-in-out;/*ease-in-out:pour La douceur in et out*/
+     -moz-transition:all 0.7s ease-in-out;
+     transition:all 0.7s ease-in-out;
+}
+.row .signup .container
+{
+background-color:#ed5565;
+height:200px;
+margin-left:15px;	
+width:250px;
+}
+.row .signup .col-sm-offset-1 .m-b-md:hover,
+.row .signup .container .m-b-md:hover
+{
+color:#bbbbc5;	
+}
+/*End row*/
+
+/*Start block*/
+div.block
+{padding-top:10px;}
+/*End block*/
+
+/*Start footer*/
+footer.breadcrumb
+{
+margin-top: 60px;
+}
+/*End footer*/

@@ -1,0 +1,19 @@
+
+/*start stage*/
+section.item
+{margin-top:5px;margin-left:100px;margin-right:100px;height: 590px;background-color:#ddd;}
+/*start panel-body*/
+.ibox-content .form-group {
+    margin-bottom: 35px;
+}
+.panel-body
+{	
+height:400px;	
+}
+/*End panel-body*/
+/*Start panel-footer*/
+.panel-footer .ibox-footer .btn-primary {
+    margin-top: 8px;
+}
+/*End panel-footer*/
+/*End stage*/

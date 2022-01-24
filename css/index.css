@@ -1,0 +1,48 @@
+		body
+			{
+				margin:0;
+				padding:0;
+				background-color:#f1f1f1;
+				font-size: 17px;
+				height:auto;
+			}
+			.fa-2x {
+                 font-size: 1.65em;
+                   }
+				   .header {
+						background-color: rgba(0,0, 0, 0.2);
+						margin-top: 55px;
+					}
+			.box
+			{
+				width:1300px;
+				padding:20px;
+				background-color:#fff;
+				border:1px solid #ccc;
+				border-radius:5px;
+				margin-top:100px;
+			}
+	        .constant
+			{
+			    margin-top: 70px;	
+			}
+			section.header .text
+			{
+			font-size:14px;	
+			}
+			.header {
+    background-color: rgba(0, 0, 0, 0.15);
+                     }
+			footer.footbot
+	    {
+			background-color: #a7abc1;
+			margin-top:20px;
+			border-top:3px solid #3052d4;
+			width: 1500px;
+			height: 90px;
+	    }		 
+		
+		
+		input[type="date"].form-control, input[type="time"].form-control, input[type="datetime-local"].form-control, input[type="month"].form-control {
+          line-height: 22px;
+         }

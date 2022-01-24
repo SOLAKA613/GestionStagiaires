@@ -1,0 +1,81 @@
+
+body
+{
+	padding-top:70px;
+	height:500px;
+	
+	
+}	
+
+
+/*start stage*/
+section.item
+{
+margin-top:5px;
+margin-left:100px;
+margin-right:100px;	
+height:788px;
+background-color:#ddd;
+}
+
+/*Start panel-heading*/
+.ibox-content .form-group .text-danger
+{
+color:red;
+font-size:19px;		
+}
+/*End panel-heading*/
+
+/*Start panel-body*/
+.border-primary h2
+{
+	    color: #76797b;
+        text-indent: 10px;
+}
+.panel-default > .panel-heading
+{
+  height:100px;  	
+}
+.border-primary h2 {
+    color: #76797b;
+    text-indent: 10px;
+    margin-top: 30px;
+}
+.panel-body
+{	
+height:500px;	
+}
+.btn-success
+{
+background-color: #047504;
+}
+.panel-body .ibox-footer
+{
+text-indent:80px;	
+}
+/*End panel-body*/
+
+/*Start panel-footer*/
+.panel-footer
+{
+height:0px;	
+}
+
+/*End panel-footer*/
+.panel-footer .ibox-footer .btn-primary
+
+{
+	    margin-top: -90px;
+}
+.panel-footer .ibox-footer .btn-success
+{
+	
+	 margin-top: -58px;
+	 background-color: #39b539;
+}
+/*End stage*/
+
+
+
+
+

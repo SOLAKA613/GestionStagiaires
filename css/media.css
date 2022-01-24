@@ -1,0 +1,44 @@
+/*Start Media Query*/
+   /*From 0 To mobile*/
+   @media(max-width:767px)
+  {
+	.navbar-inverse .navbar-nav > li > a
+	{
+	padding-top:10px;
+    padding-bottom:10px;	
+	}
+	.subscribe .form-control
+	{
+		margin: 20px auto;/* auto : pour la ligne translater automatiquemnet avec la tranlation de la page voir video 35 l'instant 4:28*/
+	}
+	/*.navbar-fixed-top .navbar-collapse,
+	.navbar-fixed-bottom .navbar-collapse
+	{max-height:none;}:pour éliminer la bare de déplacement d'image vers l'haut et le baseline
+	dans l'icon de menu */
+	
+  }
+  @media(min-width:768px)
+  {
+	.subscribe .form-inline .btn   
+	{
+		margin:20px 0;
+	}  
+  }
+   @media(max-width:470px)
+   {
+	 .col-lg-2 .skype
+	 {margin-right: 89px;}	 
+   }
+   @media(min-width:471px)and (max-width:498px)
+   {
+	 .col-lg-2 .skype
+	 {margin-right: 120px;}	 
+   }
+   
+   /*From Small To Medium*/
+   @media(min-width:768px)and (max-width:991px)
+   {
+	   h1{
+		 		 
+		   
+	   }

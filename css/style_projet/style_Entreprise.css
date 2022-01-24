@@ -1,0 +1,30 @@
+.img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    width: 1400px;
+    height: 200px;
+}
+.panel
+{
+	width: 800px;
+    margin-left: 270px;
+}
+.ENTREP
+{
+	
+    height: 280px;
+    width: 1300px;
+    margin-left: 65px;
+}
+.fa-facebook-square
+{
+	font-size: 2.1em;
+    margin-top: 1px;
+}
+.Africa
+{
+	margin-bottom: -5px;
+    margin-top: 4px;
+}
+.AXA
+{
+	margin-top: 9px;
+}

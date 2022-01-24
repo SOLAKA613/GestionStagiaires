@@ -1,0 +1,266 @@
+body
+{
+	padding-top:70px;
+	height:1000px;
+    background-color:#f1f1f1;	
+}
+section.header .text
+{
+font-size: 17px;	
+}
+/*Start se connect*/
+.dropdown .breadcrumb {
+    margin-left: 0px;
+	margin-top: -5px;
+    width: 300px;
+    height: 190px;
+	border:solid 2px #ca5c34;
+}
+/*
+.navbar-nav > li > .dropdown-menu
+{height:160px;
+width: 0px;}
+*/
+.nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
+    background-color: #eee;
+    border-color: #131517;}
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
+    color: #fff;
+    background-color: #ca5c34;
+	height: 53px;
+    border-radius: 0px;
+}
+
+button, html input[type="button"], input[type="reset"], input[type="submit"] 
+{margin-left:65px;}
+.btn-success
+{color:#ece6e6;
+margin: -47px 10px 0px 155px;}
+
+/* End se connecte */
+
+/*Start our navbar */
+.navbar-inverse
+{
+	    border-bottom: 3px solid #ef4404;
+}
+.navbar-inverse .navbar-brand span, .about h1 span,
+.testimonials span, .footer h3, .footer .copyright span 
+{color:#E41B17;}
+
+.navbar-inverse .navbar-nav .active a,
+.navbar-inverse .navbar-nav > .active > a:focus
+{   
+    color:#c7bfbe;
+}
+
+.navbar-inverse .navbar-nav > .active > a:hover
+{
+	color:#FFF;
+	background-color: #ec1d18;
+}
+.navbar-inverse .navbar-nav > li > a:hover
+{
+background-color: #ca5c34;
+}
+.navbar-inverse .navbar-nav .ac  a:hover
+{
+background-color: #222;
+color:#c7bfbe;
+}
+.navbar-inverse .navbar-nav > li > a
+{
+color:#BBB;	
+padding-top:18px;
+padding-bottom:14px;
+font-size:18px;
+}
+
+
+.navbar-inverse .navbar-brand
+{
+padding-top:18px;
+padding-bottom:14px;
+font-size:25px;
+line-height:16px;
+color:#777;	
+}
+.navbar-brand
+{
+	font-size:25px;
+	line-height:25px;
+}
+.navbar-toggle
+{
+	margin-top:18px;
+}
+.navbar-right .dropdown-menu
+{
+	left:0;
+	right:auto;
+}
+.navbar .container .dropdown-menu
+{
+	height: 100px;
+}
+.navbar .navbar-nav .btn-secondary
+{
+	height: 52px;
+	margin-right: 1px;
+	border-radius: 0px;
+}
+/*End our navbar*/
+/*Start header*/
+.header
+{
+background-color:rgba(0,0, 0, 0.2);
+margin-top:-16px;	
+}
+
+.header a
+{
+background-color: rgba(0, 0, 0, 0);
+color:#264561;}
+.header .stage  
+{
+	background-color: #eee;
+}
+.navbar-default .toggl
+{
+	margin-right:-2px;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    background-color: rgba(0, 0, 0, 0);
+	color:#264561
+}
+.menu-pages {
+    background-color: rgba(0, 0, 0, 0);
+    border-color: #e7e7e7;
+}
+/*End header*/
+/*Start Dropdown Menu*/
+.dropdown-menu
+{
+background-color:#1d0404;	
+min-width:210px;
+border-top:3px solid #E41B17;
+}
+
+.dropdown-menu > li > a
+{
+color:red;	
+padding:6px;
+-webkit-transition:padding 0.5s ease;
+-moz-transition:padding 0.5s ease;
+transition:padding 0.5s ease;/*transition:padding 0.5s ease;:pour translater le lien vers gauche avec un temps de 0.5s losque je clique sur le */
+
+}
+
+.dropdown-menu > li > a:hover, 
+.dropdown-menu > li > a:focus
+{
+
+color:#e4d5d0;
+background-color:red;	
+padding-left:25px;	/*padding-left:25px;:pour translater le lien vers gauche losque je clique sur le*/
+
+}
+
+
+.dropdown-menu .divider
+{
+background-color:#8a5e5e;	
+}
+/*End Dropdown Menu*/
+/*Start carousel*/
+.img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    width: 1400px;
+    height: 400px;
+}
+/*End carousel*/
+
+/*Start Parageraphe*/
+section.breadcrumb
+{
+background-color:#d8dcf1;
+margin-top:20px;	
+}
+section img
+{
+float:left;
+width:190px;
+height:100px;
+margin-right:20px;	
+}
+section h5.color
+{
+color:#e2a56f;	
+}
+section h2
+{
+color:#428bca;	
+}
+.our-information ul li
+{
+color:#428bca;	
+}
+.our-information ul,.our-information ol {
+    margin-top: 0;
+    margin-bottom: 10px;
+    margin-left: 12px;
+}
+/*End Parageraphe*/
+ 
+/*Start mot du Doyen*/
+
+div.breadcrumb
+{
+margin-left:90px;	
+width:410px;
+height:230px;
+	
+}
+section .contenu-mot-doyen img
+{
+width: 80px;
+height: 80px;
+float:left;	
+}
+
+/*End mot Du Doyen*/
+ /*Start arrow*/
+.fa-arrow-alt-circle-up
+{
+margin-left: 1270px;
+}
+/*End arrow*/
+/*Start footer*/
+footer.breadcrumb
+{
+	    background-color: #a7abc1;
+		margin-bottom:0px;
+		border-top:3px solid #3052d4;
+		margin-top: 35px;
+        width: 1348px;
+		height: 90px;
+}       
+footer .footbot .container a
+{
+	color:#0d12f5;
+}
+footer .footbot .container a:hover
+{
+	color:#0d7df5;
+}
+.fot 
+{
+   
+	margin-top: 15px;
+}
+/*End footer*/
+
+
+
+
+

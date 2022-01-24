@@ -1,0 +1,19 @@
+/*Start page-body*/
+.bg-primary-a-7 {
+    background-color: rgba(130, 84, 64, 0.7);
+    fill: rgba(232,84,18,0.7);
+}
+
+
+.page-header {
+    padding-bottom: 9px;
+    margin: 40px 10px 10px 15px;
+    border-bottom: 1px solid #eceef0;
+}
+.page-body h1.ul-bold,.page-body span 
+{color:#e85412;}
+.page-body h3.card-title
+{
+color:blue;	
+}
+/*End page-body*/

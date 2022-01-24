@@ -1,0 +1,134 @@
+
+body
+{
+	padding-top:70px;
+	height:500px;
+	background-color:#f1f1f1;
+	
+}	
+
+
+/*start stage*/
+section.item
+{
+margin-top:5px;
+margin-left:100px;
+margin-right:100px;	
+height:890px;
+background-color:#ddd;
+}
+section.panetem
+{
+height:790px;	
+}
+/*Start panel-heading*/
+.ibox-content .form-group .text-danger
+{
+color:red;
+font-size:19px;		
+}
+/*End panel-heading*/
+
+/*Start panel-body*/
+.border-primary h2
+{
+	    color: #76797b;
+        text-indent: 10px;
+}
+.panel-default > .panel-heading
+{
+  height:100px;  	
+}
+
+.panel-body
+{	
+height:700px;	
+}
+.BOD
+{
+height:600px;	
+}
+.btn-success
+{
+background-color: #047504;
+}
+.panel-body .ibox-footer
+{
+text-indent:80px;	
+}
+/*Start pack Ajouter-groupe*/
+.pack
+{
+	height:500px;
+}
+/*End pack Ajouter-groupe*/
+/*Start ibox-content*/
+.form-text
+{
+	margin-top:50px;
+}
+/*End ibox-content*/
+/*Start breadcrumb */
+section.item-panel
+{
+height:689px;	
+}
+/*End Breadcrumb*/
+/*Start footer*/
+.fot ,.fa-long-arrow-up
+{
+        font-size: 14px;
+}
+.scrollup {
+    
+
+}	
+/*End footer*/
+/*End panel-body*/
+
+/*Start panel-footer*/
+.panel-footer
+{
+height:70px;	
+}
+
+/*End panel-footer*/
+
+.panel-footer .ibox-footer .btn-success
+{
+	
+	 margin-top: 41px;
+	 background-color: #39b539;
+	 margin-right: auto;
+}
+/*End stage*/
+
+/*Start button*/
+.text-right
+{
+	margin-top:-34px;
+}
+.btn-info {
+    margin-top: 7px;
+}
+button {
+    margin-left: 0px;
+}
+/*End button*/
+/*Start arrow*/
+.fa-arrow-alt-circle-up
+{
+margin-left: 1270px;
+}
+/*End arrow*/
+/*Start input*/
+ input[type="date"], input[type="time"], input[type="datetime-local"], input[type="month"] {
+    line-height: 20px;
+}
+/*End input*/
+/*Start alert-danger*/
+.alert-danger {
+    width: 1150px;
+    margin-left: 100px;
+}
+/*End alert-danger*/

@@ -1,0 +1,59 @@
+body{
+height:auto;	
+}
+.alert-danger
+{
+	margin-left: 100px;
+	margin-right: 100px;
+}
+/*Start section*/
+section.breadcrumb {
+    
+    margin-left: 100px;
+    margin-right: 100px;
+	height: 658px;
+}
+/*End section*/
+/*Start panel-body*/
+.border-primary h2
+{
+	    color: #76797b;
+        text-indent: 10px;
+}
+
+.ibox-content .form-group .text-danger
+{
+color:red;
+font-size:19px;		
+}
+
+.panel-default > .panel-heading
+{
+  height:100px;  	
+}
+
+.panel-body
+{	
+height:570px;	
+}
+.btn-success
+{
+background-color: #047504;
+}
+.panel-body .ibox-footer
+{
+text-indent:80px;	
+}
+ .labe
+ {
+	margin-top:30px; 
+ }
+/*End panel-body*/
+
+/*Start panel-footer*/
+.panel-footer
+{
+height:70px;	
+}
+
+/*End panel-footer*/

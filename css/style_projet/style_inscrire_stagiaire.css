@@ -1,0 +1,35 @@
+body
+{
+height:auto;	
+}
+.alert-danger,.alert-success
+{
+width: 800px;
+margin-left: 270px;	
+margin-top:117px;
+height: 150px;	
+}
+.echec
+{
+	margin-top: -23px;
+	margin-left:140px;
+}
+.reussi
+{
+	margin-top: -23px;
+	margin-left:290px;
+}
+footer.breadcrumb
+{
+	margin-top: 125px;
+}
+.fa-remove
+{
+	margin-top: 40px;
+	margin-left:115px;
+}
+.fa-check
+{
+margin-top: 40px;
+margin-left:245px;	
+}

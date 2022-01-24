@@ -1,0 +1,92 @@
+body
+{
+height:auto;	
+}
+/*Start our header*/
+.bg-primary-a-7 {
+    background-color: rgba(130, 84, 64, 0.7);
+    fill: rgba(232,84,18,0.7);
+}
+
+
+.page-header {
+    padding-bottom: 9px;
+    margin: 40px 10px 10px 15px;
+    border-bottom: 1px solid #eceef0;
+}
+/*End our header*/
+
+/* Start stage-image */
+.stage-image 
+{font-family:arial,verdana,sans-serif;
+font-size:16px;
+}
+
+.stage-image .row .col-md-10 .card-title
+{
+color:red;
+}
+.stage-image .row .col-md-10 .card-text
+{
+font-size:16px;
+}
+.stage-image .row .col-md-2
+{
+margin-top:77px;	
+}
+.stage-image .row .breadcrumb 
+{
+    margin-left: 760px;
+    margin-top: 70px;
+    height:500px;	
+    width:370px;
+	background-color: #ecf0f1
+	}
+/* End stage-image */
+
+
+/*Start nav-stage*/
+
+.nav-pills
+{
+margin-left:100px;	
+
+}
+
+.tab-content 
+ {
+margin-left:100px;
+margin-top:50px;
+
+}
+div.breadcrumb
+{
+	margin-left: 0px;
+    margin-right:17px;	
+    width: auto; 
+    height: auto; 
+}
+section ul li 
+{color:#282b2d;} 
+
+.text-uppercase
+{color:#2249de;}
+/*End nav-stage*/
+
+/* Start footer */
+footer.breadcrumb
+{
+	    background-color: #a7abc1;
+		margin-bottom:0px;
+		margin-top:0px;
+		border-top:3px solid #3052d4;
+}       
+footer .footbot .container a
+{
+	color:#0d12f5;
+}
+footer .footbot .container a:hover
+{
+	color:#0d7df5
+}
+/* End footer */
